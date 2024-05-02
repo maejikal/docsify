@@ -1,1 +1,1 @@
-published writeups and resources
+docsified writeups and resources
